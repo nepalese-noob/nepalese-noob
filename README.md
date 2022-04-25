@@ -57,11 +57,11 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [𝐌𝐀𝐇𝐀𝐃𝐈-143](https://github.com/nepalese-noob)
+- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [Nepalese-noob](https://github.com/nepalese-noob)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I have more anger in summer season than winter**
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
