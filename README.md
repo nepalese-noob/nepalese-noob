@@ -14,7 +14,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadi-143&label=Profile%20views&color=eb4d3d&style=flat-square" alt="mahadi-143" /> </p>
 </i></b></h3>
@@ -49,7 +49,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [Rupesh Kumar](https://www.facebook.com/4FR1D1.143)
+- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [Rupesh Kumar](https://www.facebook.com/mr.rupeshl)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
