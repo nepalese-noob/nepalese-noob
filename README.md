@@ -16,7 +16,7 @@
 
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahadi-143&label=Profile%20views&color=eb4d3d&style=flat-square" alt="mahadi-143" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nepalese-noob&label=Profile%20views&color=eb4d3d&style=flat-square" alt="nepalese-noob" /> </p>
 </i></b></h3>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
