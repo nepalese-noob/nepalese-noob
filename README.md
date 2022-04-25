@@ -45,11 +45,11 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 🤲🏻 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- 𝐈𝐒𝐋𝐀𝐌
+- 🤲🏻 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- Hindu
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [𝐌𝐀𝐇𝐀𝐃𝐈 𝐇𝐀𝐒𝐀𝐍 𝐀𝐅𝐑𝐈𝐃𝐈](https://www.facebook.com/4FR1D1.143)
+- 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [Rupesh Kumar](https://www.facebook.com/4FR1D1.143)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -57,7 +57,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [𝐌𝐀𝐇𝐀𝐃𝐈-143](https://github.com/MAHADI-143)
+- 💻𝐆𝐈𝐓𝐇𝐔𝐁:- [𝐌𝐀𝐇𝐀𝐃𝐈-143](https://github.com/nepalese-noob)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -149,14 +149,14 @@
 <!--
 **nepalese-noob/nepalese-noob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
