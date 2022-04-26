@@ -69,8 +69,8 @@
 
 [![Instagram](https://img.shields.io/badge/IG-%40Rupesh.Kumar-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/rupeshkumarmahato97)
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/4FR1D1.143)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/4FR1D1.143)
-[![Github](https://img.shields.io/badge/Github-MAHADI-143green?style=for-the-badge&logo=github)](https://github.com/MAHADI-143)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/mr.rupeshl)
+[![Github](https://img.shields.io/badge/Github-Nepalese-Noob-green?style=for-the-badge&logo=github)](https://github.com/nepalese-noob)
 
 ### ⚙️ &nbsp; Language & programming
 
