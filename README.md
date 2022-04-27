@@ -117,7 +117,7 @@
 <a href="https://github.com/nepalese-noob/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=MAHADI-143&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </a>
-<a href="https://github.com/MAHADI-143/Mahadi-Pro"><img title="Mahadi-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-143&repo=Mahadi-Pro&theme=vision-friendly-dark">
+<a href="https://github.com/MAHADI-143/Mahadi-Pro"><img title="Mahadi-Pro" src="https://github-readme-stats.vercel.app/api/pin/?username=nepalese-noob&repo=Mahadi-Pro&theme=vision-friendly-dark">
 
 </a>
 <a href="https://github.com/MAHADI-143/2009"><img title="2009" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahadi-143&repo=2009&theme=vision-friendly-dark">
