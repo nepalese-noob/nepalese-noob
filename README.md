@@ -48,7 +48,9 @@
 - 🤲🏻 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍:- Hindu
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-- 🙈 Birthday: - 8-may-2001 
+
+• 🙈 Birthday: - 8-may-2001 
+
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 - 📱𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊:- [Rupesh Kumar](https://www.facebook.com/mr.rupeshl)
