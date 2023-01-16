@@ -33,7 +33,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 📕 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- Bachlor 2𝐍𝐃 𝐘𝐄𝐀𝐑
+- 📕 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- Bachlor 3rd 𝐘𝐄𝐀𝐑 with education
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
