@@ -8,7 +8,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=25&lines=Me+Rupesh+Kumar+Mahato+hu.+.+.+;+ye+sirf+1+name+nahi+hai+.+.+.+;ye+ek+ek+Brand+hai+...+9_o;Thank+You+Everyone+Love+u+All+.+.+.+;Follow+karle;Profile+kaisa+laga?.+.+.+.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=10&lines=Me+Rupesh+Kumar+Mahato+hu.+.+.+;+ye+sirf+1+name+nahi+hai+.+.+.+;ye+ek+ek+Brand+hai+...+9_o;Thank+You+Everyone+Love+u+All+.+.+.+;Follow+karle;Profile+kaisa+laga?.+.+.+.;)](https://git.io/typing-svg)
 
 </p>
 
